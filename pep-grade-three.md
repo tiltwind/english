@@ -8,10 +8,9 @@ markmeta_tags: PEP,Grade3
 
 # PEP 三年级英语
 
-
 ## 1. Unit One Hello!
 
-### **一．重点单词**
+### **一. 重点单词**
 
 1. pencil box 铅笔盒 
 2. eraser橡皮
