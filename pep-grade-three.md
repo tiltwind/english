@@ -29,8 +29,8 @@ markmeta_tags: PEP,Grade3
 * I have a ruler. 我有一把尺子。Me too. 我也有。
 * I have an eraser. 我有一块橡皮。Me too. 我也有。
 
-> a和an表示一.......， 以元音字母为首的名词前用an,辅音字母为首的名词用a.
-> 元音字母为 a e i o u
+> a和an表示一.......， 以元音字母为首的名词前用an,辅音字母为首的名词用a. 
+> 元音字母为 a e i o u.
 
 4. **询问对方姓名的问答句**
 * What’s your name? 你叫什么名字？（注意your 的书写）
@@ -43,7 +43,7 @@ markmeta_tags: PEP,Grade3
  1. Open your pencil box. 打开你的铅笔盒。
  2. Show me your pen. 让我看看你的钢笔。
  3. Close your book. 合上你的书。
- 4.C arry your bag. 背上你的书包。
+ 4. Carry your bag. 背上你的书包。
 
 
 ## Unit Two Colors.
